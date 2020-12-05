@@ -20,7 +20,7 @@ soffchen: https://github.com/soffchen/NanoPi-R2S
 * 集成 [luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 ## 用法
-Fork 到自己的账号下，编辑文件 `CHANGELOG.md` 触发编译动作。
+Fork 到自己的账号下，编辑文件 `CHANGELOG.md` 触发编译动作。hfh
 
 ## 注意
 产品发布初期，官方代码每天都在变，遇到无法编译时，请过来查看 `.yml` 与 `config` 最新异动。
